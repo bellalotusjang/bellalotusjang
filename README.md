@@ -36,3 +36,10 @@ AI · Computer Vision · Data Engineering
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bellalotusjang&color=7b2cbf" />
 </p>
+
+
+<p align="center">
+  <a href="https://jangcarru20100919.tistory.com/">
+    <img src="https://img.shields.io/badge/Bella's%20Tech%20Log-7b2cbf?style=for-the-badge"/>
+  </a>
+</p>
