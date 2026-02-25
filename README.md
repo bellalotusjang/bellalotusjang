@@ -1,7 +1,11 @@
-<h1 align="center">🌌 Welcome to My Universe</h1>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=80" width="100%" />
+</p>
+
+<h1 align="center">🌙 Bella's Night Sky</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Bella's%20AI%20Galaxy&fontColor=ffffff&fontSize=40" />
+  <i>AI under the Milky Way</i>
 </p>
 
 ---
