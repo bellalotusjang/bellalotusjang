@@ -5,6 +5,10 @@
 <h1 align="center">🌙 Bella's Night Sky</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
   <i>AI under the Milky Way</i>
 </p>
 
