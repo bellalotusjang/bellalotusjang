@@ -1,3 +1,5 @@
+<img src="night_sky.svg" width="100%" />
+
 <h1 align="center">🌌 Welcome to My Universe</h1>
 
 <p align="center">
