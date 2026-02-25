@@ -1,9 +1,9 @@
 <img src="night_sky.svg" width="100%" />
 
-<h1 align="center">🌌 Welcome to My Universe</h1>
+<h1 align="center">Bella's AI Galaxy 🌙</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Bella's%20AI%20Galaxy&fontColor=ffffff&fontSize=40" />
+AI · Computer Vision · Data Engineering
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ### 🌠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,docker" />
 </p>
 
 ---
@@ -27,14 +27,12 @@
 ### 🌌 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bellalotusjang&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellalotusjang&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bellalotusjang&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellalotusjang&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌙 Visitor Count
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bellalotusjang&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=bellalotusjang&color=7b2cbf" />
 </p>
