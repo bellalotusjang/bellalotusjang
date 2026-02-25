@@ -1,48 +1,38 @@
-<!-- HERO SECTION -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80" width="100%" />
-</p>
-
-<h1 align="center" style="color:#4cc9f0;">ORBIT THE CODE</h1>
+<h1 align="center">🌌 Welcome to My Universe</h1>
 
 <p align="center">
-  AI • Computer Vision • Data Engineering
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg" width="250"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bellalotusjang">
-    <img src="https://img.shields.io/badge/Enter%20Galaxy-1f6feb?style=for-the-badge" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Bella's%20AI%20Galaxy&fontColor=ffffff&fontSize=40" />
 </p>
 
 ---
 
-<!-- WAVE DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000428,100:004e92&height=100&section=header"/>
-</p>
+### 🪐 About Me
 
-## 🌌 Mission
-
-Building AI systems that  
-orbit around real-world problems  
-and return structured solutions.
+🚀 AI & Computer Vision Enthusiast  
+🌙 Building models that connect data and people  
+✨ Turning problems into structured solutions  
 
 ---
 
-## 🛰 Tech Orbit
+### 🌠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker" />
 </p>
 
 ---
 
-<!-- FOOTER WAVE -->
+### 🌌 GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bellalotusjang&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellalotusjang&theme=tokyonight" />
+</p>
+
+---
+
+### 🌙 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bellalotusjang&color=blueviolet" />
 </p>
