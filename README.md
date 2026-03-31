@@ -3,14 +3,14 @@
 <h1 align="center">Bella's AI Galaxy 🌙</h1>
 
 <p align="center">
-AI · Computer Vision · Data Engineering
+AI · Computer Vision · Data Engineering · Multi Modal · RL 
 </p>
 
 ---
 
 ### 🪐 About Me
 
-🚀 AI & Computer Vision Enthusiast  
+🚀 AI & Computer Vision Enthusiast 
 🌙 Building models that connect data and people  
 ✨ Turning problems into structured solutions  
 
